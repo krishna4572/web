@@ -1,0 +1,5 @@
+
+From Ubuntu
+RUN apt-get install -y riak
+CMD "Welcome to Edureka"
+ENTRYPOINT echo
